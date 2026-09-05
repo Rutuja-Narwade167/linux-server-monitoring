@@ -1,0 +1,12 @@
+===== APPLICATION LOG REPORT =====
+
+INFO messages: 5
+WARNING messages: 2
+ERROR messages: 3
+
+----- ERROR DETAILS -----
+2026-09-05 10:06:10 ERROR Database connection failed
+2026-09-05 10:08:30 ERROR Database connection failed
+2026-09-05 10:15:05 ERROR API request failed
+
+===== END OF REPORT =====
